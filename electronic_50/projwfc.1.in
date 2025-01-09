@@ -1,0 +1,10 @@
+ &PROJWFC
+   DeltaE          =  0.1,
+   Emax            =  20.0,
+   Emin            =  -20.0,
+   filpdos         =  'x050.pdos',
+   outdir          =  './temp',
+   prefix          =  'x050',
+ /
+
+

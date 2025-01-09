@@ -1,0 +1,8 @@
+ &BANDS
+   filband         =  'x075.bands.dat',
+   lsym            =  .true.,
+   outdir          =  './temp'
+   prefix          =  'x075'
+ /
+
+
